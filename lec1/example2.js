@@ -14,5 +14,5 @@ function Query() {
 Query.prototype.setConnection = function (mongoRef) {
     this.mongoRef = mongoRef
 }
-
+//
 mng.connect()
